@@ -40,7 +40,7 @@
 
 No Terminal/Console:
 <ol>
-	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/cami-la/sacola-api.git</code></li>
+	<li>Faça um clone do projeto na sua máquina: <code>git clonehttps://github.com/thiag-o/iFood-dev-week-SacolaAPI.git</code></li>
 	<li>Entre na pasta raiz do projeto: <code>cd sacola-api</code></li> 
 	<li>Rode o comando: <code>./gradlew bootrun</code></li>
 	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8081/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
